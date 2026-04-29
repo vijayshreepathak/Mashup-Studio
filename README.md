@@ -442,7 +442,7 @@ This project is for educational purposes.
 ---
 
 ## 👨‍💻 Author
-Pooja Bisht
+Vijayshree vaibhav 
 Created as a demonstration of advanced full-stack development with AI integration.
 
 **Key Technologies**: Python, Flask, React, Tailwind CSS, librosa, yt-dlp, pydub
